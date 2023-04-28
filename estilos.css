@@ -551,6 +551,10 @@ html{
  .estilo{
     transform: translateY(76px);
  }
+    
+  .ultimoelemento{
+    display: none;
+}
  
 }
 
