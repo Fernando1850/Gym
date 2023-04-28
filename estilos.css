@@ -281,8 +281,8 @@ html{
 
 
 .footerServicio{
-    background: #000000;
-    margin: 10px -280px 9px -238px;
+        background: #000000;
+    margin: 129px -303px 9px -245px;
     padding: 10px 10px 183px 22px;
 }
 .articulopadre{
@@ -527,7 +527,7 @@ html{
  }
  .redes{
     margin: 13px -380px 77px 491px;
-    transform: translateX(426px);
+    transform: translateX(495px);
  }
 
  .articulopadre{
@@ -539,7 +539,7 @@ html{
     /* white-space: nowrap; */
     flex-direction: column;
     transform: translateX(50);
-    transform: translateX(191px);
+    transform: translateX(351px);
  }
 
  .elementos{
