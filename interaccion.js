@@ -14,6 +14,7 @@ const botonOcultar = document.getElementById("ocultar")
 const inicioMovil = document.getElementById("movilInicio")
 const servicioMovil = document.getElementById ("movilServicio")
 const nosotrosMovil = document.getElementById ("movilNosotros")
+const ultimoElemento = document.getElementById ("foter")
 
 
 
