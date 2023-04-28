@@ -84,6 +84,7 @@ function botonMenu(){
 function pruebaInicio(){
     elServicio.style.display = "none"
     elNosotros.style.display = "none"
+    ultimoElemento.style.display = "block"
 
     if (elInicio.style.display === "none") {
         elInicio.style.display = "block"
